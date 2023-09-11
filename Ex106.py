@@ -1,5 +1,4 @@
 from time import sleep
-#NO VS CODE ESTÁ DANDO PROBLEMAS, NO PYCHARM ESTÁ NORMAL
 
 c = ("\033[m", "\033[1;39;41m","\033[1;39;44m", "\033[1;39;45m", "\033[1;39;46m")
 
